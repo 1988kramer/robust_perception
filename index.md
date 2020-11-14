@@ -1,9 +1,6 @@
-# Robust  Perception  For  Autonomous  Field  Robots  in  Challenging Environments
-
-This is a proposed workshop for ICRA 2021, focusing on robotic perception and state estimation techniques that are robust to visual challenges such as darkness, smoke, and fog. 
-
-### Abstract
+## Abstract
 
 Autonomous mobile robots need to operate in a diverse range of environments that present large challenges for the current state of the art in perception. For example, autonomous road vehicles need to operate in darkness and fog and search-and-rescue robots need to operate in the presence of thick smoke. These conditions, referred to as Visually Degraded Environments (VDEs), degrade the performance of cameras and LiDAR and this degradation can easily lead to higher-level failures. Further, in many cases robots require perception in VDEs far exceeding that of humans. Autonomous road vehicles, for example, must operate in VDEs, but a perception failure could endanger human lives. If techniques for robust perception in VDEs are not developed, the usefulness of autonomous mobile robots will be severely limited.
 
 This workshop aims to highlight new developments in the field of robust perception and state estimation. We will bring together experts in the field to share their work on novel sensors, new algorithms, and full perception systems. Our goal is to bring more attention to this important area, and encourage sharing and collaboration between robust, resilient perception and a diverse range of related research areas including computer vision, robust AI, and field robotics.
+
