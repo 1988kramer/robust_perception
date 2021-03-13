@@ -11,3 +11,34 @@ This workshop aims to highlight new developments in the field of robust percepti
 [Kostas Alexis](http://www.kostasalexis.com/)  
 [Luca Carlone](https://lucacarlone.mit.edu/)  
 [Margarita Chli](http://www.v4rl.ethz.ch)  
+
+### Submissions
+Participants are invited to submit short papers (up to 4 pages in ICRA format) focusing on advances in robust perception using novel sensors, new algorithms, and full perception systems. 
+ 
+Topics of interest include but are not limited to:
+The use of novel or unusual sensor types for perception problems such as radar and thermal imaging
+New methods for using traditional sensors (vision, lidar, etc) in challenging environments
+Novel algorithms for robust perception and state estimation in challenging environments
+Full perception stacks designed for challenging environments
+Contributed papers will be reviewed by the organizers and a program committee of invited reviewers. Accepted papers will be published on the workshop website and will be featured in spotlight presentations and poster sessions. 
+ 
+[Submission link](https://easychair.org/conferences/?conf=icra21wrpce)
+ 
+### Important Dates
+- Submission Deadline: April 25, 2021
+- Notification of Acceptance: May 9, 2021
+- Workshop Date: (TBD)
+ 
+### Invited Speakers
+ - Sebastian Scherer (Carnegie Mellon University)
+ - Jeanette Bohg (Stanford University)
+ - Davide Scaramuzza (University of Zurich)
+ - Tim Barfoot (University of Toronto)
+ - Claire Tomlin (University of California, Berkeley)
+ - Larry Matthies (NASA Jet Propulsion Laboratory)
+ - Sanjiv Singh (Carnegie Mellon University)
+ - CJ Taylor (University of Pennsylvania)
+ - Paul Newman (Oxford University)
+
+### Further Information
+Please send any questions to Andrew Kramer at [andrew.kramer@colorado.edu](andrew.kramer@colorado.edu). Please include "Robust Perception ICRA 2021 Workshop" in the subject of the email.
