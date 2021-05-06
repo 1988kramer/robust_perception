@@ -34,8 +34,8 @@ Contributed papers will be reviewed by the organizers and a program committee of
 |:----------------:|:-----------------|
 | 9:00-9:10      | **Opening Remarks** |
 | 9:10-9:30      | **Davide Scaramuzza**, University of Zurich - *Robust and Agile Perception for Micro Aerial Vehicles*      |
-| 9:30-9:50   | **Tim Barfoot** (University of Toronto)       |
-| 9:50-10:10   | **Sebastian Scherer** (Carnegie Mellon University)    |
+| 9:30-9:50   | **Tim Barfoot**, University of Toronto - *Dark,  Damp,  and  Dynamic:  Recent  Progress  on  RoboticLocalization in Challenging Environments*  |
+| 9:50-10:10   | **Sebastian Scherer**,Carnegie Mellon University - *Robust  Navigation  with  Visual  and  Thermal  Sensors  inDegraded Visual Environments*  |
 | 10:10-10:40   | **Panel Discussion**      |
 | 10:40-12:00  | **Poster Session**      |
 | 12:00-13:30   | **Lunch**      |
