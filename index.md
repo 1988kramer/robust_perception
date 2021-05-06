@@ -31,6 +31,7 @@ Contributed papers will be reviewed by the organizers and a program committee of
 
 ### Schedule
 
+|----------------|-----------------|
 | 9:00-9:10      | Opening Remarks |
 | 9:10-9:30      | Davide Scaramuzza       |
 | 9:30-9:50   | Tim Barfoot        |
