@@ -31,15 +31,23 @@ Contributed papers will be reviewed by the organizers and a program committee of
 
 ### Schedule
 | time | event |
-|----------------|-----------------|
+|:----------------:|:-----------------|
 | 9:00-9:10      | Opening Remarks |
-| 9:10-9:30      | Davide Scaramuzza       |
-| 9:30-9:50   | Tim Barfoot        |
-| 9:30-9:50   | Sebastian Scherer      |
-| 9:30-9:50   |       |
-| 9:30-9:50   |       |
-| 9:30-9:50   |       |
-| 9:30-9:50   |       |
+| 9:10-9:30      | Davide Scaramuzza (University of Zurich)      |
+| 9:30-9:50   | Tim Barfoot (University of Toronto)       |
+| 9:50-10:10   | Sebastian Scherer (Carnegie Mellon University)    |
+| 10:10-10:40   | Panel Discussion      |
+| 10:40-12:00  | Poster Session      |
+| 12:00-13:30   | Lunch      |
+| 13:30-13:50  |    Jeanette Bohg (Stanford University)  |
+|  13:50-14:10 |     Claire Tomlin (University of California, Berkeley) |
+|  14:10-14:30 |     Larry Matthies (NASA Jet Propulsion Laboratory) |
+|  14:30-15:00 |    Panel Discussion   |
+|  15:00-15:30 |    Coffee Break   |
+|  15:30-15:50 |   Sanjiv Singh (Carnegie Mellon University)   |
+|  15:50-16:10 |   CJ Taylor (University of Pennsylvania)   |
+|  16:10-16:40 |   Panel Discussion    |
+|  16:40-16:50 |   Closing Remarks    |
  
 ### Invited Speakers
  - Sebastian Scherer (Carnegie Mellon University)
