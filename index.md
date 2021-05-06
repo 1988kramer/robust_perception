@@ -30,35 +30,25 @@ Contributed papers will be reviewed by the organizers and a program committee of
 - Workshop Date: May 31st, 2021 (starting time 9:00am GMT-04)
 
 ### Schedule
-| time | event |
+| Time (GMT-04) | Event |
 |:----------------:|:-----------------|
-| 9:00-9:10      | Opening Remarks |
-| 9:10-9:30      | Davide Scaramuzza (University of Zurich)      |
-| 9:30-9:50   | Tim Barfoot (University of Toronto)       |
-| 9:50-10:10   | Sebastian Scherer (Carnegie Mellon University)    |
-| 10:10-10:40   | Panel Discussion      |
-| 10:40-12:00  | Poster Session      |
-| 12:00-13:30   | Lunch      |
-| 13:30-13:50  |    Jeanette Bohg (Stanford University)  |
-|  13:50-14:10 |     Claire Tomlin (University of California, Berkeley) |
-|  14:10-14:30 |     Larry Matthies (NASA Jet Propulsion Laboratory) |
-|  14:30-15:00 |    Panel Discussion   |
-|  15:00-15:30 |    Coffee Break   |
-|  15:30-15:50 |   Sanjiv Singh (Carnegie Mellon University)   |
-|  15:50-16:10 |   CJ Taylor (University of Pennsylvania)   |
-|  16:10-16:40 |   Panel Discussion    |
-|  16:40-16:50 |   Closing Remarks    |
- 
-### Invited Speakers
- - Sebastian Scherer (Carnegie Mellon University)
- - Jeanette Bohg (Stanford University)
- - Davide Scaramuzza (University of Zurich)
- - Tim Barfoot (University of Toronto)
- - Claire Tomlin (University of California, Berkeley)
- - Larry Matthies (NASA Jet Propulsion Laboratory)
- - Sanjiv Singh (Carnegie Mellon University)
- - CJ Taylor (University of Pennsylvania)
- - Paul Newman (Oxford University)
+| 9:00-9:10      | **Opening Remarks** |
+| 9:10-9:30      | **Davide Scaramuzza**, University of Zurich - *Robust and Agile Perception for Micro Aerial Vehicles*      |
+| 9:30-9:50   | **Tim Barfoot** (University of Toronto)       |
+| 9:50-10:10   | **Sebastian Scherer** (Carnegie Mellon University)    |
+| 10:10-10:40   | **Panel Discussion**      |
+| 10:40-12:00  | **Poster Session**      |
+| 12:00-13:30   | **Lunch**      |
+| 13:30-13:50  |    **Jeanette Bohg** (Stanford University)  |
+|  13:50-14:10 |     **Claire Tomlin** (University of California, Berkeley) |
+|  14:10-14:30 |     **Larry Matthies** (NASA Jet Propulsion Laboratory) |
+|  14:30-15:00 |    **Panel Discussion**   |
+|  15:00-15:30 |    **Coffee Break**   |
+|  15:30-15:50 |   **Sanjiv Singh** (Carnegie Mellon University)   |
+|  15:50-16:10 |   **CJ Taylor** (University of Pennsylvania)   |
+|  16:10-16:40 |   **Panel Discussion**   |
+|  16:40-16:50 |   **Closing Remarks**    |
+
 
 ### Further Information
 Please send any questions to Andrew Kramer at [andrew.kramer@colorado.edu](andrew.kramer@colorado.edu). Please include "Robust Perception ICRA 2021 Workshop" in the subject of the email.
