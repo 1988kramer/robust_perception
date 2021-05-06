@@ -30,7 +30,7 @@ Contributed papers will be reviewed by the organizers and a program committee of
 - Workshop Date: May 31st, 2021 (starting time 9:00am GMT-04)
 
 ### Schedule
-
+| time | event |
 |----------------|-----------------|
 | 9:00-9:10      | Opening Remarks |
 | 9:10-9:30      | Davide Scaramuzza       |
