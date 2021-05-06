@@ -27,7 +27,17 @@ Contributed papers will be reviewed by the organizers and a program committee of
 ### Important Dates
 - Submission Deadline: April 25, 2021
 - Notification of Acceptance: May 9, 2021
-- Workshop Date: (TBD)
+- Workshop Date: May 31st, 2021 (starting time 9:00am GMT-04)
+
+### Schedule
+| 9:00-9:10      | Opening Remarks |
+| 9:10-9:30      | Davide Scaramuzza       |
+| 9:30-9:50   | Tim Barfoot        |
+| 9:30-9:50   | Sebastian Scherer      |
+| 9:30-9:50   |       |
+| 9:30-9:50   |       |
+| 9:30-9:50   |       |
+| 9:30-9:50   |       |
  
 ### Invited Speakers
  - Sebastian Scherer (Carnegie Mellon University)
