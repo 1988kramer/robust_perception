@@ -26,7 +26,7 @@ Contributed papers will be reviewed by the organizers and a program committee of
  
 ### Important Dates
 - Submission Deadline: April 25, 2021
-- Notification of Acceptance: May 9, 2021
+- Notification of Acceptance: May 9, 2021 (Delayed to May 22nd)
 - Workshop Date: May 31st, 2021 (starting time 9:00am GMT-04)
 
 ### Schedule
@@ -35,8 +35,8 @@ Contributed papers will be reviewed by the organizers and a program committee of
 |:----------------:|:-----------------|
 | 9:00-9:10      | **Opening Remarks** |
 | 9:10-9:30      | **Davide Scaramuzza** - *Robust and Agile Perception for Micro Aerial Vehicles*      |
-| 9:30-9:50   | **Tim Barfoot** - *Dark,  Damp,  and  Dynamic:  Recent  Progress  on  Robotic Localization in Challenging Environments*  |
-| 9:50-10:10   | **Sebastian Scherer** - *Robust  Navigation  with  Visual  and  Thermal  Sensors  in Degraded Visual Environments*  |
+| 9:30-9:50   | **Sebastian Scherer** - *Robust  Navigation  with  Visual  and  Thermal  Sensors  in Degraded Visual Environments*  |
+| 9:50-10:10   | **Tim Barfoot** - *Dark,  Damp,  and  Dynamic:  Recent  Progress  on  Robotic Localization in Challenging Environments*  |
 | 10:10-10:40   | **Panel Discussion** with Davide, Tim, and Sebastian     |
 | 10:40-12:00  | **Poster Session**      |
 | 12:00-13:30   | **Lunch**      |
