@@ -35,9 +35,9 @@ Contributed papers will be reviewed by the organizers and a program committee of
 |:----------------:|:-----------------|
 | 9:00-9:10      | **Opening Remarks** |
 | 9:10-9:30      | **Davide Scaramuzza** - *Robust and Agile Perception for Micro Aerial Vehicles*      |
-| 9:30-9:50   | **Sebastian Scherer** - *Robust  Navigation  with  Visual  and  Thermal  Sensors  in Degraded Visual Environments*  |
-| 9:50-10:10   | **Tim Barfoot** - *Dark,  Damp,  and  Dynamic:  Recent  Progress  on  Robotic Localization in Challenging Environments*  |
-| 10:10-10:40   | **Panel Discussion** with Davide, Tim, and Sebastian     |
+| 9:30-9:50   | **CJ Taylor** - *UPSLAM : Union of Panorama SLAM*   | 
+| 9:50-10:10   | **Sebastian Scherer** - *Robust  Navigation  with  Visual  and  Thermal  Sensors  in Degraded Visual Environments*  | 
+| 10:10-10:40   | **Panel Discussion** with Davide, CJ, and Sebastian     |
 | 10:40-12:00  | **Poster Session**      |
 | 12:00-13:30   | **Lunch**      |
 | 13:30-13:50  |    **Jeanette Bohg** - *Detect, Reject, Correct: Cross-modal Compensation of Corrupted Sensors*  |
@@ -46,8 +46,8 @@ Contributed papers will be reviewed by the organizers and a program committee of
 |  14:30-15:00 |    **Panel Discussion** with Jeanette, Claire, and Larry  |
 |  15:00-15:30 |    **Coffee Break**   |
 |  15:30-15:50 |   **Sanjiv Singh** - *Faster, Lighter, More Reliable: Commonplace autonomous systems need all three*   |
-|  15:50-16:10 |   **CJ Taylor** - *UPSLAM : Union of Panorama SLAM*   |
-|  16:10-16:40 |   **Panel Discussion** with Sanjiv and CJ  |
+|  15:50-16:10 |   **Tim Barfoot** - *Dark,  Damp,  and  Dynamic:  Recent  Progress  on  Robotic Localization in Challenging Environments*  |
+|  16:10-16:40 |   **Panel Discussion** with Sanjiv and Tim  |
 |  16:40-16:50 |   **Closing Remarks**    |
 
 
