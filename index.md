@@ -6,6 +6,7 @@ This workshop aims to highlight new developments in the field of robust percepti
 
 ### Access Details
 The workshop can be accessed via this [zoom link](https://cuboulder.zoom.us/j/94417844147) at 9:00 (GMT-04) on May 31st, 2021.
+The poster session is accessible at this [zoom link]() at 10:40 (GMT-04).
 
 ### Organizers
 [Chris Heckman](http://www.ristoffer.ch/) - point of contact  
@@ -36,14 +37,14 @@ Contributed papers will be reviewed by the organizers and a program committee of
 
 | Time (GMT-04) | Event |
 |:----------------:|:-----------------|
-| 9:00-9:10      | **Opening Remarks** |
+| 9:00-9:10      | [**Opening Remarks**](https://cuboulder.zoom.us/j/94417844147) |
 | 9:10-9:30      | **Davide Scaramuzza** - *Robust and Agile Perception for Micro Aerial Vehicles*      |
 | 9:30-9:50   | **CJ Taylor** - *UPSLAM : Union of Panorama SLAM*   | 
 | 9:50-10:10   | **Sebastian Scherer** - *Robust  Navigation  with  Visual  and  Thermal  Sensors  in Degraded Visual Environments*  | 
 | 10:10-10:40   | **Panel Discussion** with Davide, CJ, and Sebastian     |
-| 10:40-12:00  | **Poster Session**      |
+| 10:40-12:00  | [**Poster Session**](https://cuboulder.zoom.us/j/96869120752)      |
 | 12:00-13:30   | **Lunch**      |
-| 13:30-13:50  |    **Jeanette Bohg** - *Detect, Reject, Correct: Cross-modal Compensation of Corrupted Sensors*  |
+| 13:30-13:50  |    [**Jeanette Bohg**](https://cuboulder.zoom.us/j/94417844147) - *Detect, Reject, Correct: Cross-modal Compensation of Corrupted Sensors*  |
 |  13:50-14:10 |     **Claire Tomlin** - *Assuring behavior of Autonomous Systems with Learning-based Perception in the Loop* |
 |  14:10-14:30 |     **Larry Matthies** - *Terrain-relative navigation for precision landing on Saturn’s moon Titan* |
 |  14:30-15:00 |    **Panel Discussion** with Jeanette, Claire, and Larry  |
