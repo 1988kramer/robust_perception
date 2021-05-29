@@ -5,8 +5,7 @@ Autonomous mobile robots need to operate in a diverse range of environments that
 This workshop aims to highlight new developments in the field of robust perception and state estimation. We will bring together experts in the field to share their work on novel sensors, new algorithms, and full perception systems. Our goal is to bring more attention to this important area, and encourage sharing and collaboration between robust, resilient perception and a diverse range of related research areas including computer vision, robust AI, and field robotics.
 
 ### Access Details
-The workshop can be accessed via this [zoom link](https://cuboulder.zoom.us/j/94417844147) at 9:00 (GMT-04) on May 31st, 2021.
-
+The workshop can be accessed via this [zoom link](https://cuboulder.zoom.us/j/94417844147) at 9:00 (GMT-04) on May 31st, 2021. <br>
 The poster session is accessible at this [zoom link]() at 10:40 (GMT-04).
 
 ### Organizers
