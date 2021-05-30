@@ -6,7 +6,7 @@ This workshop aims to highlight new developments in the field of robust percepti
 
 ### Access Details
 The workshop can be accessed via this [zoom link](https://cuboulder.zoom.us/j/94417844147) at 9:00 (GMT-04) on May 31st, 2021. <br>
-The poster session is accessible at this [zoom link]() at 10:40 (GMT-04).
+The poster session is accessible at this [zoom link](https://cuboulder.zoom.us/j/96869120752) at 10:40 (GMT-04).
 
 ### Organizers
 [Chris Heckman](http://www.ristoffer.ch/) - point of contact  
