@@ -31,7 +31,7 @@ This workshop aims to highlight new developments in the field of robust percepti
 [*Self-Improving Semantic Perception on a Construction Robot*](papers/ICRA-21-WRPCE_paper_1.pdf) - Hermann Blum, Francesco Milano, René Zurbrügg, Roland Siegwart, Cesar Cadena, and Abel Gawel  
 [*Calibrating LiDAR and Camera using Semantic Mutual information*](papers/ICRA-21-WRPCE_paper_2.pdf) - 	Peng Jiang, Philip Osteen, and Srikanth Saripalli  
 [*MIXER: A Principled Framework for Multimodal, Multiway Data Association*](papers/ICRA-21-WRPCE_paper_3.pdf) - Parker Lusk, Ronak Roy, Kaveh Fathian, and Jonathan How  
-[*Autonomous Quadrotor Flight despite Rotor Failure with Onboard Vision Sensors: Frames vs. Events*]](papers/ICRA-21-WRPCE_paper_5.pdf) - 	Sihao Sun, Giovanni Cioffi, and Davide Scaramuzza  
+[*Autonomous Quadrotor Flight despite Rotor Failure with Onboard Vision Sensors: Frames vs. Events*](papers/ICRA-21-WRPCE_paper_5.pdf) - 	Sihao Sun, Giovanni Cioffi, and Davide Scaramuzza  
 [*On the Design of Robust and Reliable Vision Front-Ends for Visually Degraded Environments*](papers/ICRA-21-WRPCE_paper_6.pdf) - 	Vikrant Shah, Jagatpreet Singh, Pushyami Kaveti, and Hanumant Singh  
 [*Event-based Monocular Depth Prediction in Night Driving*](papers/ICRA-21-WRPCE_paper_7.pdf) - 	Javier Hidalgo-Carrió, Daniel Gehrig, and Davide Scaramuzza  
 [*Redesigning SLAM for Arbitrary Multi-Camera Systems*](papers/ICRA-21-WRPCE_paper_8.pdf) - 	Juichung Kuo, Manasi Muglikar, Zichao Zhang, and Davide Scaramuzza  
