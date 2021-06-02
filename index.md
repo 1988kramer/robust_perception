@@ -4,6 +4,10 @@ Autonomous mobile robots need to operate in a diverse range of environments that
 
 This workshop aims to highlight new developments in the field of robust perception and state estimation. We will bring together experts in the field to share their work on novel sensors, new algorithms, and full perception systems. Our goal is to bring more attention to this important area, and encourage sharing and collaboration between robust, resilient perception and a diverse range of related research areas including computer vision, robust AI, and field robotics.
 
+### Date
+
+The workshop took place on May 31st, 2021.
+
 
 ### Organizers
 [Chris Heckman](http://www.ristoffer.ch/) - point of contact  
