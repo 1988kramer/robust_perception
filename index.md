@@ -20,7 +20,7 @@ Recordings of the keynote talks are available at the links below.
 
 **Davide Scaramuzza** - [*Robust Perception For Cars And Drones*](https://youtu.be/s5LL0NYbI-U)  
 **CJ Taylor** - [*UPSLAM : Union of Panoramas SLAM*](https://youtu.be/zR2uR1hCcL0)  
-**Sebastian Scherer** - *[Robust  Navigation  with  Visual  and  Thermal  Sensors  in Degraded Visual Environments*](https://youtu.be/KH5_eCivG7M)  
+**Sebastian Scherer** - [*Robust  Navigation  with  Visual  and  Thermal  Sensors  in Degraded Visual Environments*](https://youtu.be/KH5_eCivG7M)  
 **Jeanette Bohg** - [*Detect, Reject, Correct: Cross-modal Compensation of Corrupted Sensors*](https://youtu.be/fTwtz_aXnD8)  
 **Claire Tomlin** - [*Learning-Based Waypoint Navigation: a Viewpoint on Perception, Planning, and Control*](https://youtu.be/wg-D-KTbtnw)  
 **Larry Matthies** - [*Terrain-relative navigation for guided descent on Titan*](https://youtu.be/KFyl3MlLv1Y)  
