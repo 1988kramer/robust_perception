@@ -30,7 +30,7 @@ Recordings of the keynote talks are available at the links below.
 ### Contributed Papers
 Contributed papers are available at the links below.
 
-*Self-Improving Semantic Perception on a Construction Robot* - Hermann Blum, Francesco Milano, René Zurbrügg, Roland Siegwart, Cesar Cadena, and Abel Gawel  
+[*Self-Improving Semantic Perception on a Construction Robot*](papers/ICRA-21-WRPCE_paper_1.pdf) - Hermann Blum, Francesco Milano, René Zurbrügg, Roland Siegwart, Cesar Cadena, and Abel Gawel  
 *Calibrating LiDAR and Camera using Semantic Mutual information* - 	Peng Jiang, Philip Osteen, and Srikanth Saripalli  
 *MIXER: A Principled Framework for Multimodal, Multiway Data Association* - Parker Lusk, Ronak Roy, Kaveh Fathian, and Jonathan How  
 *Autonomous Quadrotor Flight despite Rotor Failure with Onboard Vision Sensors: Frames vs. Events* - 	Sihao Sun, Giovanni Cioffi, and Davide Scaramuzza  
