@@ -15,7 +15,6 @@ This workshop aims to highlight new developments in the field of robust percepti
 
 
 ### Keynote Talks
-
 Recordings of the keynote talks are available at the links below.
 
 **Davide Scaramuzza** - [*Robust Perception For Cars And Drones*](https://youtu.be/s5LL0NYbI-U)  
@@ -29,14 +28,17 @@ Recordings of the keynote talks are available at the links below.
 
 
 ### Contributed Papers
-Participants are invited to submit short papers (up to 4 pages in ICRA format) focusing on advances in robust perception using novel sensors, new algorithms, and full perception systems. 
- 
-Topics of interest include but are not limited to:
-The use of novel or unusual sensor types for perception problems such as radar and thermal imaging
-New methods for using traditional sensors (vision, lidar, etc) in challenging environments
-Novel algorithms for robust perception and state estimation in challenging environments
-Full perception stacks designed for challenging environments
-Contributed papers will be reviewed by the organizers and a program committee of invited reviewers. Accepted papers will be published on the workshop website and will be featured in spotlight presentations and poster sessions. 
+Contributed papers are available at the links below.
+
+*Self-Improving Semantic Perception on a Construction Robot* - Hermann Blum, Francesco Milano, René Zurbrügg, Roland Siegwart, Cesar Cadena, and Abel Gawel  
+*Calibrating LiDAR and Camera using Semantic Mutual information* - 	Peng Jiang, Philip Osteen, and Srikanth Saripalli  
+*MIXER: A Principled Framework for Multimodal, Multiway Data Association* - Parker Lusk, Ronak Roy, Kaveh Fathian, and Jonathan How  
+*Autonomous Quadrotor Flight despite Rotor Failure with Onboard Vision Sensors: Frames vs. Events* - 	Sihao Sun, Giovanni Cioffi, and Davide Scaramuzza  
+*On the Design of Robust and Reliable Vision Front-Ends for Visually Degraded Environments* - 	Vikrant Shah, Jagatpreet Singh, Pushyami Kaveti, and Hanumant Singh  
+*Event-based Monocular Depth Prediction in Night Driving* - 	Javier Hidalgo-Carrió, Daniel Gehrig, and Davide Scaramuzza  
+*Redesigning SLAM for Arbitrary Multi-Camera Systems* - 	Juichung Kuo, Manasi Muglikar, Zichao Zhang, and Davide Scaramuzza  
+*High-Speed Drone Flight with On-Board Sensing and Computing* - Antonio Loquercio, Elia Kaufmann, Yunlong Song, and Davide Scaramuzza  
+*Inertial Learning for Improved Dynamic Legged Robot State Estimation* - 	Russell Buchanan, Marco Camurri, and Maurice Fallon  
 
 
 ### Further Information
