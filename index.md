@@ -15,7 +15,6 @@ This workshop aims to highlight new developments in the field of robust percepti
 
 
 ### Keynote Talks
-Recordings of the keynote talks are available at the links below.
 
 **Davide Scaramuzza** - [*Robust Perception For Cars And Drones*](https://youtu.be/s5LL0NYbI-U)  
 **CJ Taylor** - [*UPSLAM : Union of Panoramas SLAM*](https://youtu.be/zR2uR1hCcL0)  
@@ -28,7 +27,6 @@ Recordings of the keynote talks are available at the links below.
 
 
 ### Contributed Papers
-Contributed papers are available at the links below.
 
 [*Self-Improving Semantic Perception on a Construction Robot*](papers/ICRA-21-WRPCE_paper_1.pdf) - Hermann Blum, Francesco Milano, René Zurbrügg, Roland Siegwart, Cesar Cadena, and Abel Gawel  
 [*Calibrating LiDAR and Camera using Semantic Mutual information*](papers/ICRA-21-WRPCE_paper_2.pdf) - 	Peng Jiang, Philip Osteen, and Srikanth Saripalli  
