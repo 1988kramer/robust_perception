@@ -4,9 +4,6 @@ Autonomous mobile robots need to operate in a diverse range of environments that
 
 This workshop aims to highlight new developments in the field of robust perception and state estimation. We will bring together experts in the field to share their work on novel sensors, new algorithms, and full perception systems. Our goal is to bring more attention to this important area, and encourage sharing and collaboration between robust, resilient perception and a diverse range of related research areas including computer vision, robust AI, and field robotics.
 
-### Access Details
-The workshop can be accessed via this [zoom link](https://cuboulder.zoom.us/j/94417844147) at 9:00 (GMT-04) on May 31st, 2021. <br>
-The poster session is accessible at this [zoom link](https://cuboulder.zoom.us/j/96869120752) at 10:40 (GMT-04).
 
 ### Organizers
 [Chris Heckman](http://www.ristoffer.ch/) - point of contact  
@@ -16,7 +13,22 @@ The poster session is accessible at this [zoom link](https://cuboulder.zoom.us/j
 [Luca Carlone](https://lucacarlone.mit.edu/)  
 [Margarita Chli](http://www.v4rl.ethz.ch)  
 
-### Submissions
+
+### Keynote Talks
+
+Recordings of the keynote talks are available at the links below.
+
+**Davide Scaramuzza** - [*Robust Perception For Cars And Drones*](https://youtu.be/s5LL0NYbI-U)
+**CJ Taylor** - [*UPSLAM : Union of Panoramas SLAM*](https://youtu.be/zR2uR1hCcL0)
+**Sebastian Scherer** - *[Robust  Navigation  with  Visual  and  Thermal  Sensors  in Degraded Visual Environments*](https://youtu.be/KH5_eCivG7M)
+**Jeanette Bohg** - [*Detect, Reject, Correct: Cross-modal Compensation of Corrupted Sensors*](https://youtu.be/fTwtz_aXnD8)
+**Claire Tomlin** - [*Learning-Based Waypoint Navigation: a Viewpoint on Perception, Planning, and Control*](https://youtu.be/wg-D-KTbtnw)
+**Larry Matthies** - [*Terrain-relative navigation for guided descent on Titan*](https://youtu.be/KFyl3MlLv1Y)
+**Sanjiv Singh** - [*Faster, Lighter, More Reliable: Commonplace autonomous systems need all three*](https://youtu.be/eti0Txui89k)
+**Tim Barfoot** - [*Dark,  Damp,  and  Dynamic:  Recent  Progress  on  Robotic Localization in Challenging Environments*](https://youtu.be/KUKGSwTZ9CI)
+
+
+### Contributed Papers
 Participants are invited to submit short papers (up to 4 pages in ICRA format) focusing on advances in robust perception using novel sensors, new algorithms, and full perception systems. 
  
 Topics of interest include but are not limited to:
@@ -25,34 +37,6 @@ New methods for using traditional sensors (vision, lidar, etc) in challenging en
 Novel algorithms for robust perception and state estimation in challenging environments
 Full perception stacks designed for challenging environments
 Contributed papers will be reviewed by the organizers and a program committee of invited reviewers. Accepted papers will be published on the workshop website and will be featured in spotlight presentations and poster sessions. 
- 
-[Submission link](https://easychair.org/conferences/?conf=icra21wrpce)
- 
-### Important Dates
-- Submission Deadline: April 25, 2021
-- Notification of Acceptance: May 9, 2021 (Delayed to May 22nd)
-- Workshop Date: May 31st, 2021 (starting time 9:00am GMT-04)
-
-### Schedule
-
-| Time (GMT-04) | Event |
-|:----------------:|:-----------------|
-| 9:00-9:10      | [**Opening Remarks**](https://cuboulder.zoom.us/j/94417844147) |
-| 9:10-9:30      | **Davide Scaramuzza** - *Robust and Agile Perception for Micro Aerial Vehicles*      |
-| 9:30-9:50   | **CJ Taylor** - *UPSLAM : Union of Panorama SLAM*   | 
-| 9:50-10:10   | **Sebastian Scherer** - *Robust  Navigation  with  Visual  and  Thermal  Sensors  in Degraded Visual Environments*  | 
-| 10:10-10:40   | **Panel Discussion** with Davide, CJ, and Sebastian     |
-| 10:40-12:00  | [**Poster Session**](https://cuboulder.zoom.us/j/96869120752)      |
-| 12:00-13:30   | **Lunch**      |
-| 13:30-13:50  |    [**Jeanette Bohg**](https://cuboulder.zoom.us/j/94417844147) - *Detect, Reject, Correct: Cross-modal Compensation of Corrupted Sensors*  |
-|  13:50-14:10 |     **Claire Tomlin** - *Assuring behavior of Autonomous Systems with Learning-based Perception in the Loop* |
-|  14:10-14:30 |     **Larry Matthies** - *Terrain-relative navigation for precision landing on Saturn’s moon Titan* |
-|  14:30-15:00 |    **Panel Discussion** with Jeanette, Claire, and Larry  |
-|  15:00-15:30 |    **Coffee Break**   |
-|  15:30-15:50 |   **Sanjiv Singh** - *Faster, Lighter, More Reliable: Commonplace autonomous systems need all three*   |
-|  15:50-16:10 |   **Tim Barfoot** - *Dark,  Damp,  and  Dynamic:  Recent  Progress  on  Robotic Localization in Challenging Environments*  |
-|  16:10-16:40 |   **Panel Discussion** with Sanjiv and Tim  |
-|  16:40-16:50 |   **Closing Remarks**    |
 
 
 ### Further Information
